@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dvlrr
-- 👀 I’m interested in ... Front end web development
-- 🌱 I’m currently learning ... The basics of HTML, CSS & Javascript through a popular course on Udemy. 
-- 💞️ I’m looking to collaborate on ... Tips and advice for my test site
+- 👀 I’m interested in ...Python coding for different projects on various Raspberry Pi's
+- 🌱 I’m currently learning ... My way through Python, MicroPython and CircuitPython
 - 📫 How to reach me ... Twitter @real_sound_guy
 
 <!---
